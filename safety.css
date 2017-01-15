@@ -76,3 +76,10 @@ nav {
        clear: both;
        display: block;
    }
+   .imgDiv {
+     margin-left: 250px;
+   }
+
+   .headerDiv {
+      margin-left: 150px
+   }
